@@ -11,7 +11,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'teomal/yria-rocks'
+          default: 'teomal/yria-rocks:v1'
 
 # env:
 #   REGISTRY: ghcr.io
